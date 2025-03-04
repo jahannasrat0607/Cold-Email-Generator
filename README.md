@@ -9,7 +9,7 @@ TechNova Solutions, a software development company, wants to reach out to potent
 A business development executive (e.g., Prabhat from TechNova) can use this tool to craft a personalized cold email tailored to Puma's job listing, significantly improving engagement and response rates.
 
 📌 Architecture Diagram
-![Architecture Diagram](architecture.png)
+![Architecture Diagram](architecture_cold_email_generator.png)
 
 
 
